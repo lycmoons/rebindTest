@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class SayHi {
+public class SayHi {
+    public static void Greet(){
+        System.out.println("Hello!!");
+    }
 }
